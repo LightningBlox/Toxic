@@ -1,3 +1,3 @@
 <div style="text-align:center;">
-<input type="button" onclick="location.href='https://google.com';" value="Try It Online" />
+  <button onclick="location.href='https://google.com';">Try It Online</button>
 </div>
