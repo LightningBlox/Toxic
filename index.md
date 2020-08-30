@@ -5,7 +5,7 @@
     </head>
     <body>
 
-<button onclick="Execute();console();clickchange();" class="waves-effect waves-light btn" style="width:100%;">ATTACK!</button>
+<a href="src/index.html" class="waves-effect waves-light btn" style="width:100%;">Try It Online</a>
 
 
 </body>
