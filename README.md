@@ -4,6 +4,7 @@ Toxic. A simple DDoS Tool written in pure JS!
 No! Toxic does not have any dependencies!
 # How do I DDoS?
 Go to this web address: <a href="https://lightningblox.github.io/Toxic">https://lightningblox.github.io/Toxic</a>
+And click on "Try It Online"
 Now type in an address for the image that is hosted on the target server, eg. Logo.
 Now click "ATTACK!" now it will start the DDoS. REMEMBER! This DDoS software is written in pure JS, so it will have a lower impact than most DDoS software.
 # License
