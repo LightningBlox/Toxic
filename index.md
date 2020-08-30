@@ -27,4 +27,3 @@ Toxic is licensed under MIT.
 This software is for educational purposes only, only try this if you own/have permission to DDoS it. If you use Toxic to DDoS servers that you do not own/have permission, then you will take all responsibility and be sent to jail.
 
 
-
