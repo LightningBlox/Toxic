@@ -10,4 +10,4 @@ Now click "ATTACK!" now it will start the DDoS. REMEMBER! This DDoS software is 
 # License
 Toxic is licensed under MIT.
 # Legal
-This software is for educational purposes only, only try this if you own/have permission to DDoS it. If you use Toxic to DDoS servers that you do not own/have permission, then you will take all responsibility and be sent to jail.
+This software is for educational purposes only, only try this if you own/have permission to DDoS the server. If you use Toxic to DDoS servers that you do not own/have permission, then you will take all responsibility.
